@@ -2,8 +2,8 @@ import telepot
 import time
 import os
 
-token = "565337760:AAGhg5UHBA1paJ0YrclCi6lm9FX3jc_HOmQ"
-mc = "488535962"
+token = ""
+mc = ""
 bot = telepot.Bot(token)
 bot.sendMessage(mc,"안녕하세요." )
 
