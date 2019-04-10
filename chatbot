@@ -36,4 +36,4 @@ updater.start_polling(poll_interval=0.0,
 updater.idle()
 
 
-출처: https://naakjii.tistory.com/54 [NJSUNG BLOG]
+
