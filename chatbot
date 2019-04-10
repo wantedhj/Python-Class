@@ -1,5 +1,5 @@
 import telegram
-my_token = '여기에 토큰을 입력하세요.'
+my_token = '565337760:AAGhg5UHBA1paJ0YrclCi6lm9FX3jc_HOmQ'
 bot = telegram.Bot(token=my_token)
 updates = bot.getupdates()
 
