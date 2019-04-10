@@ -1,0 +1,7 @@
+import telegram
+my_token = '여기에 토큰을 입력하세요.'
+bot = telegram.Bot(token=my_token)
+updates = bot.getupdates()
+
+for u in updates:
+ print(u.message)
